@@ -15,7 +15,7 @@
         android:layout_marginLeft="50dp"
         android:src="@drawable/logo"/>
     <TextView
-        android:layout_width="200dp"
+        android:layout_width="190dp"
         android:layout_height="20dp"
         android:textColor="#F1BB16"
         android:layout_marginLeft="150dp"
